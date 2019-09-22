@@ -34,26 +34,27 @@ Having gained experience, I am planing to develop in the direction of smart home
 ```
 <!DOCTYPE html>
 <html>
-<body>
+  <head>
+    <meta charset="utf-8">
+    <title>Code example for CV</title>
+  </head>
+  <body>
 
-<h2>JavaScript Functions</h2>
+    <h2>JavaScript Functions</h2>
 
-<p>This example calls a function which performs a calculation and returns the result:</p>
+      <p>This example calls a function which performs a calculation and returns the result:</p>
 
-<p id="demo"></p>
+       <p id="demo"></p>
 
-<script>
+         <script>
 var x = myFunction(4, 3);
 document.getElementById("demo").innerHTML = x;
 
 function myFunction(a, b) {
   return a * b;
 }
-
-
-</script>
-
-</body>
+          </script>
+  </body>
 </html>
 
 ```
