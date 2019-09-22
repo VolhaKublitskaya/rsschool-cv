@@ -31,7 +31,7 @@ Having gained experience, I am planing to develop in the direction of smart home
   
 ### *Code examples:*
 
-`
+```
 <!DOCTYPE html>
 <html>
 <body>
@@ -56,7 +56,7 @@ function myFunction(a, b) {
 </body>
 </html>
 
-`
+```
 
 ### *Experience:*
 
