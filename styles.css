@@ -3,11 +3,23 @@ body {
     width:1024px;
     margin: 0 auto;
     align: center;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 h3 {
     font-family: Arial, Helvetica, sans-serif;
     color: darkblue;
+}
+
+h3.main-info {
+    text-align: center;
+}
+
+img {
+    float: left;
+    width: 150px;
+    height: 200px;
+    padding: 30px;
 }
 
 .contact {
@@ -17,4 +29,8 @@ h3 {
 
 ul.order {
     list-style-type: square;
+}
+
+a {
+    font-style: italic;
 }
